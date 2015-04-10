@@ -6,7 +6,7 @@ Tested up to: 1.0.0
 Stable tag: 1.0.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-The Verlico plugin automatically adds real-time content analytics to your blog. See who’s is actually reading your posts and how long they stay on each blog post.
+The Verlico plugin automatically adds real-time content analytics to your blog. See who’s is actually reading your posts and how long they stay.
 
 
 == Description ==
