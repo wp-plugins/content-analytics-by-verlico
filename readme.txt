@@ -2,7 +2,7 @@
 Contributors: verlico
 Tags: verlico, analytics, content analytics, blog analytics
 Requires at least: 2.8
-Tested up to: 1.0.0
+Tested up to: 4.1.1
 Stable tag: 1.0.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
